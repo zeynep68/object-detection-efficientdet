@@ -1,0 +1,24 @@
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.idea/
+
+voc_data/
+
+*.png
+
+wandb/
+
+best_model/
+
+best_model.zip
+
+### pip packaging
+
+build/
+
+dist/
+
+src/efficient_det.egg-info/
