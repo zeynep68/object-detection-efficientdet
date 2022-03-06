@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Orange001415.png</filename>
+    <path>fruit_kaggle-PascalVOC-export/Annotations/Orange001415.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>258</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Orange</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>164.61605584642234</xmin>
+        <ymin>53.88961038961039</ymin>
+        <xmax>238.0541012216405</xmax>
+        <ymax>132.6298701298701</ymax>
+    </bndbox>
+</object>
+</annotation>
